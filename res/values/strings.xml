@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Utility&amp;Media</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="title_activity_utility">UtilityActivity</string>
+    <string name="title_activity_msecond">MSecondActivity</string>
+    <string name="title_activity_mabout">MAboutActivity</string>
+    <string name="title_activity_flash">FlashActivity</string>
+    <string name="title_activity_ufirst">UFirstActivity</string>
+    <string name="title_activity_usecond">USecondActivity</string>
+
+</resources>

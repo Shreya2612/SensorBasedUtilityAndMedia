@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.utilitymedia.MSecondActivity" >
+
+  <item
+    android:id="@+id/Playlist"
+    android:title="Playlist"/>
+<item 
+    android:id="@+id/Quit"
+    android:title="Close"/>
+<item 
+    android:id="@+id/About"
+    android:title="About"/>
+
+</menu>
